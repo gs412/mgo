@@ -30,8 +30,8 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	"github.com/skynetservices/mgo"
-	"github.com/skynetservices/mgo/bson"
+	"github.com/gs412/mgo"
+	"github.com/gs412/mgo/bson"
 	. "launchpad.net/gocheck"
 	"os/exec"
 
