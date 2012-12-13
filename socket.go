@@ -28,7 +28,7 @@ package mgo
 
 import (
 	"errors"
-	"github.com/skynetservices/mgo/bson"
+	"github.com/gs412/mgo/bson"
 	"net"
 	"sync"
 )
