@@ -30,7 +30,7 @@ import (
 	"crypto/md5"
 	"encoding/hex"
 	"errors"
-	"github.com/skynetservices/mgo/bson"
+	"github.com/gs412/mgo/bson"
 	"hash"
 	"io"
 	"os"
